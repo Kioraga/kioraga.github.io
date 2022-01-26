@@ -11,12 +11,14 @@ description: "
 "
 email: dcancelasgarcia@gmail.com
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/dcancelas
   - title: github
     url: https://github.com/Kioraga
   - title: twitter
     url: https://twitter.com/danzk15
+  - title: anilist
+    url: https://anilist.co/user/Kioraga/
+  - title: linkedin
+    url: https://www.linkedin.com/in/dcancelas
   # - title: dev
   #   url: https://dev.to/
   - title: email
