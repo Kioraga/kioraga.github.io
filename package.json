@@ -1,0 +1,24 @@
+{
+  "name": "kioraga.github.io",
+  "version": "1.0.0",
+  "description": "> A Jekyll theme for serial programmers (-.-)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kioraga/kioraga.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kioraga/kioraga.github.io/issues"
+  },
+  "homepage": "https://github.com/Kioraga/kioraga.github.io#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.1",
+    "tinacms": "^1.0.1"
+  }
+}
