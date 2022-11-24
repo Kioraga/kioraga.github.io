@@ -1,12 +1,12 @@
-title: Jekyll Serial Programmer
+title: Kioraga
 markdown: kramdown
 url: ""
-baseurl: "/jekyll-theme-serial-programmer"
+baseurl: "/"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Daniel Cancelas
+  email: dcancelasgarcia@gmail.com
 
 plugins:
   - jemoji
