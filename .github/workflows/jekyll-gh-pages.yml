@@ -2,6 +2,9 @@
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
+  schedule:
+    # Runs at 00:01 UTC on the first day of January
+    - cron: "1 0 1 1 *"
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
